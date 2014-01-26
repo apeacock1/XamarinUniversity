@@ -20,6 +20,8 @@ A quick introduction to Xamarin and Mobile Development. Covers the Mobile Applic
 
 `Pre-requisites:` **Intro to Mobile/Kickstart**
 
+[**Video of Recorded Class**](http://xamarin.wistia.com/medias/5ny4rknjx9)
+
 [**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/iOS/Intro%20to%20iOS%20with%20Xamarin%20Studio)
 
 Introduces iOS development. Covers basic app creation, creating multi-screen apps with iOS’s MVC pattern, deployment, debugging, and introduces app fundamentals.
@@ -57,6 +59,8 @@ Same as Intro to Android with Xamarin Studio, but uses VS as the development env
 `Duration:` **3 Hours**
 
 `Pre-requisites:` **Intro to iOS with Visual Studio** *OR* **Intro to iOS with Xamarin Studio**
+
+[**Class Materials**](https://github.com/xamarin/XamarinUniversity/tree/master/Course_Materials/Fundamentals_Track/iOS/Tables%20and%20Collection%20Views%20in%20iOS)
 
 Teaches how to use Tables (and their more expressive counterpart - UICollectionViews), including populating, handling selection, editing, and customizing appearance.
 
